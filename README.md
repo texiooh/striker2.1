@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Striker2.1: Open-Source AI Creative Studio
 
 Striker2.1 is a production-oriented, professional AI creative studio for high-fidelity image and video generation. Built with a provider-independent architecture, it allows users to harness the power of both local open-weight models and commercial AI APIs within a cinematic, minimal workspace.
@@ -44,3 +45,7 @@ Striker2.1 is a production-oriented, professional AI creative studio for high-fi
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# striker2.1
+
+>>>>>>> 6321593ed2998b06ad3cf21ededb2204764e6e77
